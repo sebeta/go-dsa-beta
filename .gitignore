@@ -4,3 +4,4 @@ profile.cov
 .vscode
 .idea
 bin
+.zed/
